@@ -59,4 +59,4 @@ Each Jupyter Notebook is provided with theoretical explanations, Python implemen
 
 ---
 
-***Each work includes a detailed theoretical justification, a Python implementation, and demonstration examples of the methods used.**
+**Each work includes a detailed theoretical justification, a Python implementation, and demonstration examples of the methods used.**
