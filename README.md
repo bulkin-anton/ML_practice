@@ -35,4 +35,4 @@ Here you will find "from scratch" implementations of basic ML algorithms and deb
 
 ---
 
-**Each work includes a detailed theoretical justification, a Python implementation, and demonstration examples of the methods used.**
+> **Each practical assignment contains detailed theoretical background, a Python implementation, and demonstration examples that showcase the methods in practice.**
